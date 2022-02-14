@@ -44,27 +44,41 @@
 
                 <Button
                     android:id="@+id/button3"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="Login" />
 
-                <LinearLayout
+                <TextView
+                    android:id="@+id/textView"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="horizontal">
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:text="QR funksjoner"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
 
-                    <Button
-                        android:id="@+id/button"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="Generer QR code" />
+                <Button
+                    android:id="@+id/scanQr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Scan QR CODE" />
 
-                    <Button
-                        android:id="@+id/button2"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="Scan QR CODE" />
-                </LinearLayout>
+                <Button
+                    android:id="@+id/generateQR"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Generer QR code" />
+
+                <TextView
+                    android:id="@+id/outputQR"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:text="output"
+                    android:textSize="20dp"
+                    android:textStyle="bold"/>
 
             </LinearLayout>
         </LinearLayout>

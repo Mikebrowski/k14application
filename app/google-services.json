@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "387677247239",
+    "project_id": "k14app",
+    "storage_bucket": "k14app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387677247239:android:e17258b7e9ca579ac517a2",
+        "android_client_info": {
+          "package_name": "azure.git.k14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387677247239-73pvnk3ccb4l96qc6v276kgj03kb4sl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCst41IQAu8YuE_jn-SqatZw9h9O-QvdoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387677247239-73pvnk3ccb4l96qc6v276kgj03kb4sl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387677247239:android:928bb76fa2d665b8c517a2",
+        "android_client_info": {
+          "package_name": "azure.git.k14application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387677247239-73pvnk3ccb4l96qc6v276kgj03kb4sl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCst41IQAu8YuE_jn-SqatZw9h9O-QvdoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387677247239-73pvnk3ccb4l96qc6v276kgj03kb4sl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
